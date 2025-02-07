@@ -21,7 +21,7 @@ This project involves the design, configuration, and implementation of a network
 - ACLs (Access Control Lists)
 
 ## How to Use
-- Download the Cisco Packet Tracer files from the `Configurations` folder.
+- Download the Cisco Packet Tracer file.
 - Open the `.pkt` file in Cisco Packet Tracer to view the network topology.
 - Refer to the `Final Project Report.pdf` for detailed explanations and configurations.
 
